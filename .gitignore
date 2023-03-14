@@ -1,0 +1,16 @@
+.idea
+device/
+device_input/
+raw_calibration_data/
+calibration_data/
+source_gwl/
+*.pyc
+*.gwl
+*.gwlc
+*.csv
+*.npy
+*.txt
+!requirements.txt
+!license.txt
+*.png
+*.zip
